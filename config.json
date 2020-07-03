@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/flaskfirst",
+    "prod_uri": "mysql://root:@localhost/flaskfirst",
+    "fb_url": "https://fb.com",
+    "tw_url": "https://twitter.com",
+    "gh_url": "https://github.com",
+    "blog_name": "blog name",
+    "tag_line": "tag line",
+    "gmail-user": "your@gmail.com",
+    "gmail-password": "urgamilpass",
+    "about_text": "Hi I am Shuvo Saha Roy, And I am trying to learn flask",
+    "no_of_posts" : 2,
+    "login_image": "login.svg",
+    "admin_user": "ssroy",
+    "admin_password": "12345",
+    "upload_location" : "E:\\codes\\python\\flask\\static"
+  }
+}
